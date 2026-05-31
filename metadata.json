@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Dubber",
+  "description": "High-fidelity AI video translation, voice-cloning, and lip-syncing engine client.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
